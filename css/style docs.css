@@ -84,14 +84,17 @@ p{
 }
 
 .img-wireframe{
-    object-fit:cover;
+    object-fit: cover;
     width: auto;
     height: 500px;
+   
 }
 
 .row{
     margin-bottom: 2%;
 }
+
+
 
 #messaggio, #google-analytics, #profilo, #post {
     width: auto;
