@@ -84,7 +84,7 @@ p{
 }
 
 .img-wireframe{
-    object-fit:contain;
+    object-fit:cover;
     width: auto;
     height: 500px;
 }
